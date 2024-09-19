@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367763030973",
+    "project_id": "lenskartclone-287ed",
+    "storage_bucket": "lenskartclone-287ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367763030973:android:a70a795fe081c3cae388d4",
+        "android_client_info": {
+          "package_name": "com.example.lenskart_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgON8hJwo2oJWcSvTVJKLJ1yLiGh2Du4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
